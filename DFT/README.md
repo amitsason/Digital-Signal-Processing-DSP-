@@ -12,3 +12,5 @@ we will simulate two cosine waves in the form of **Acos(2pift)**:
 * ![picture alt](https://github.com/amitsason/Digital-Signal-Processing-DSP-/blob/master/DFT/time%20domain.jpg)
 * ![picture alt](https://github.com/amitsason/Digital-Signal-Processing-DSP-/blob/master/DFT/freq%20domain.jpg)
 
+In **timeNfreq** the sampling frequency is defined by: fs = 20max(f1,f2).
+increasing **fs** will give us higher resolution of the frequency axis. 
