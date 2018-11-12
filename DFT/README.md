@@ -7,8 +7,8 @@ Here we find two matlab files :
 * **timeNfreq** - function who recieves two frequencies and two amplitudes, show them in time domain and frequency domain using matlabs fft().
 
 let us take the example of using the **timeNfreq()** function.
-we will simulate two sine waves in the form of **Asin(2pift)**:
-**timeNfreq(34,78,2,3)** show the signal **2sin(2pi34t) + 3sin(2pi78t)**
+we will simulate two cosine waves in the form of **Acos(2pift)**:
+**timeNfreq(34,78,2,3)** show the signal **2cos(2pi34t) + 3cos(2pi78t)**
 * ![picture alt](https://github.com/amitsason/Digital-Signal-Processing-DSP-/blob/master/DFT/time%20domain.jpg)
 * ![picture alt](https://github.com/amitsason/Digital-Signal-Processing-DSP-/blob/master/DFT/freq%20domain.jpg)
 
