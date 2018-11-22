@@ -1,5 +1,5 @@
 # FFT algorithems and implementation #
-Here we find two matlab files :
+Here we find four matlab files :
 * **dft.m** - dft function implemented with two for loops.
 * **RunDFT** - script who runs dft.m function.
 * **SHORT_DFT** - dft function implemented with matrix multiplication  instead of loops, faster for large inputs.
