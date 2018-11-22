@@ -1,10 +1,10 @@
 # FFT algorithems and implementation #
-Here we find four matlab files :
+Here we find five matlab files :
 * **dft.m** - dft function implemented with two for loops.
-* **RunDFT** - script who runs dft.m function.
-* **SHORT_DFT** - dft function implemented with matrix multiplication  instead of loops, faster for large inputs.
-* **RunShort_DFT** - script who runs SHORT_DFT function.
-* **timeNfreq** - function who recieves two frequencies and two amplitudes, show them in time domain and frequency domain using matlabs fft().
+* **RunDFT.m** - script who runs dft.m function.
+* **SHORT_DFT.m** - dft function implemented with matrix multiplication  instead of loops, faster for large inputs.
+* **RunShort_DFT.m** - script who runs SHORT_DFT function.
+* **timeNfreq.m** - function who recieves two frequencies and two amplitudes, show them in time domain and frequency domain using matlabs fft().
 
 let us take the example of using the **timeNfreq()** function.
 we will simulate two cosine waves in the form of **Acos(2pift)**:
