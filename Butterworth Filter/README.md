@@ -3,12 +3,11 @@ run runMyButter.m to see results. runMyButter.m uses practicalFFT1.m myButter.m 
 
 we want to create a digital butterworth filter in the form of:
 * ![picture alt](https://github.com/amitsason/Digital-Signal-Processing-DSP-/blob/master/Butterworth%20Filter/images/formula1.JPG)
+
 a scheme of such filter can be described like this:
+
 * ![picture alt](https://github.com/amitsason/Digital-Signal-Processing-DSP-/blob/master/Butterworth%20Filter/images/formula2.JPG)
 
-for example:
-
-* ![picture alt](https://github.com/amitsason/Digital-Signal-Processing-DSP-/blob/master/Butterworth%20Filter/images/formula3.JPG)
 
 let us take a signal consisting of two cosine waves with two frequencies:
 * f1 = 200Hz  A1 = 1V
