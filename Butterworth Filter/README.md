@@ -1,4 +1,4 @@
-# Butterorth Filter #
+# Butterworth Filter #
 ----
 make sure that all of the matlab files above are in your directory.
 run **runMyButter.m** to see results. **runMyButter.m** uses **practicalFFT1.m myButter.m** and **timeNfreq.m** functions.
