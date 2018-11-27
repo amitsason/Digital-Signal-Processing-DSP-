@@ -23,7 +23,7 @@ than we decide the order of the filter **n**. the bigger the **n** is, the sharp
 the sharpness of the filter (frequency response) comes with a price because when **n** is big it takes more time to get the result, thus implementing such a filter in real time systems is not effective, the smaller the **n** is, the faster we get our result, but the frequency response is not as sharp.
 
 we start with **n = 2**:
- the filter **Time** and **Phase** response:
+ the filter **Magnitude** and **Phase** response:
  * ![picture alt](https://github.com/amitsason/Digital-Signal-Processing-DSP-/blob/master/Butterworth%20Filter/images/filterTimeNPhase.JPG)
  
  we set in the function **myButter.m** the cutoff frequency of the filter to be **20% larger** from the minimal frequency.
