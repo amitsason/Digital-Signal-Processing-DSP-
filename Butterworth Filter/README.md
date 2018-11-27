@@ -43,8 +43,11 @@ we start with **n = 2**:
  ----
  # Conclusions #
  1)The bigger the filter order (**n**) the sharper and stronger the filter.
+ 
  2)The bigger the filter order (**n**) the more time it takes to calcualate **NOT good** for real time application.
+ 
  3)The smaller the filter order (**n**) the milder and weaker the filter.
+ 
  4)The smaller the filter order (**n**) the less time it takes to calcualate **VERY good** for real time application.
 
 
