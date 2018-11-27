@@ -10,8 +10,8 @@ a scheme of such filter can be described like this:
 
 
 let us take a signal consisting of two cosine waves with two frequencies:
-* f1 = 200Hz  A1 = 1V
-* f2 = 600Hz  A2 = 3V
+* f1 = 200Hz,  A1 = 1V
+* f2 = 600Hz,  A2 = 3V
 
 * ![picture alt](https://github.com/amitsason/Digital-Signal-Processing-DSP-/blob/master/Butterworth%20Filter/images/signalInTnF.JPG)
 
@@ -29,9 +29,13 @@ we start with n = 2:
  than we find b and a vectors and filter the signal.
  for n = 2 we get:
  * ![picture alt](https://github.com/amitsason/Digital-Signal-Processing-DSP-/blob/master/Butterworth%20Filter/images/filteredn2.JPG)
+ 
   for n = 3 we get:
+  
   * ![picture alt](https://github.com/amitsason/Digital-Signal-Processing-DSP-/blob/master/Butterworth%20Filter/images/filteredn3.JPG)
+  
   for n = 4 we get:
+  
   * ![picture alt](https://github.com/amitsason/Digital-Signal-Processing-DSP-/blob/master/Butterworth%20Filter/images/filteredn4.JPG)
  
  
