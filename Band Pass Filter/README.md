@@ -25,7 +25,7 @@ then we filter the signal and plot the result:
 
 * ![picture alt](https://github.com/amitsason/Digital-Signal-Processing-DSP-/blob/master/Band%20Pass%20Filter/images/filtered%20signal.JPG)
 
-we can see that the filtered signal is lagging a bit untill it is stablized due to the nature of our FIR filter.
+we can see that we managed to filter f2 = 600Hz successfully andthat  the filtered signal is lagging a bit untill it is stablized due to the nature of our FIR filter.
 
 
 
