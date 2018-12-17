@@ -15,7 +15,7 @@ first we want to examine the signal characteristics in time and frequency by fou
 * ![picture alt](https://github.com/amitsason/Digital-Signal-Processing-DSP-/blob/master/Audio%20Signal%20Filtering/images/original%20signal%20in%20freq.JPG)
 
 we can see that most of the signals power is located below 2000Hz and we want to examine the influence of **low-pass** filtering and **high-pass** filtering on the audio quality. 
-----
+
 
 ## High-Pass Chebyshev ##
 we set our cutoff frequency to be 1400Hz with a **high-pass Chebyshev** filter of 34 order.
