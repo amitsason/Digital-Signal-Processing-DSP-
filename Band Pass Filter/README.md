@@ -7,6 +7,12 @@ In this project we want to filter one frequency from a superposition signal of 3
 
 for this purpose I built a matlab function that recieves 3 frequencies f1<f2<f3 and 3 amplitudes A1 A2 A3.
 the function creates a signal in the form of A1sin(f1t)+A2sin(f2t)+A3sin(f3t).
+i chose:
+* f1 = 200Hz
+* f2 = 600Hz
+* f3 = 900Hz
+A1 = A2 = A3 = 2V
+
 the signal in time and frequency:
 
 * ![picture alt](https://github.com/amitsason/Digital-Signal-Processing-DSP-/blob/master/Band%20Pass%20Filter/images/original%20signal%20t%26f.JPG)
